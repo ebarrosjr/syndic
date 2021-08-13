@@ -7,11 +7,8 @@
 - [ ] Diagrama de classes
 - [ ] Wiki
 - [ ] Manual do usuário
-    - [ ] Imobiliária
-    - [ ] Corretor
-    - [ ] Cliente
-        - [ ] Síndico
-        - [ ] Condômino
+    - [ ] Síndico
+    - [ ] Condômino
 
 # 0.1 Layout base
 
