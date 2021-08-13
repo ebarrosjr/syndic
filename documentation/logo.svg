@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="190mm"
+   height="75mm"
+   viewBox="0 0 190 75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.225301"
+     inkscape:cx="396.38109"
+     inkscape:cy="126.90462"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1310"
+     inkscape:window-height="704"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-222)">
+    <path
+       style="fill:#008890;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.537574,224.28298 -20.045285,12.29434 h 4.810559 v 12.56202 l 19.299597,17.62683 h -7.974193 v 15.24713 h -1.65106 v -16.83825 h 5.360397 L 35.224605,247.26814 14.137004,265.17505 h 5.467365 v 23.33708 H 1.4090995 v 6.59753 H 188.54287 V 282.0133 H 69.702601 l 0.267168,-45.43598 h 5.078244 z m 1.187008,16.90336 h 7.150468 v 12.64315 h -7.150468 z m -28.827179,23.98871 h 6.551539 v 4.41007 h -6.551539 z m 7.609872,0 h 6.551538 v 4.41007 h -6.551538 z m -7.609872,5.40433 h 6.551539 v 4.41006 h -6.551539 z m 7.609872,0 h 6.551538 v 4.41006 h -6.551538 z m -4.143417,7.95506 h 7.32565 v 9.97769 h -7.32565 z"
+       id="path33-7-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.39122391px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05973923"
+       x="68.93853"
+       y="279.6517"
+       id="text171"><tspan
+         sodipodi:role="line"
+         id="tspan169"
+         x="68.93853"
+         y="279.6517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.39122391px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.05973923">Syndic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.74496984px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.14362423"
+       x="70.258881"
+       y="290.93286"
+       id="text980"><tspan
+         sodipodi:role="line"
+         id="tspan978"
+         x="70.258881"
+         y="290.93286"
+         style="fill:#ffffff;stroke-width:0.14362423">Gerenciador de condomínio OpenSource </tspan></text>
+  </g>
+</svg>
